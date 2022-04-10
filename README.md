@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @William-C1ark
 - 👀 I’m interested in mathematics, and trading
-- 🌱 I’m currently studying for CFA, and learning python/SQL
+- 🌱 I’m currently studying for CFA, and learning Python/SQL
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
